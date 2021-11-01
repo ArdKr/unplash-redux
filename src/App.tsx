@@ -1,3 +1,5 @@
+import "bootstrap/dist/css/bootstrap.css";
+
 export function App() {
-  return <div className="App">{process.env.API_ACCESS_KEY}</div>;
+  return <div className="App"></div>;
 }
